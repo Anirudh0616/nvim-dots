@@ -26,7 +26,7 @@ My Neovim configuration.
 │           ├── peek.lua
 │           ├── telescope.lua
 │           ├── trouble.lua
-│         └── zenmode.lua
+│           └── zenmode.lua
 ```
 your editor should work for you—not against you.
 
