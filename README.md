@@ -1,12 +1,13 @@
-# nvim-dots
-.config of my Neovim
+# nvim-dots 
+My Neovim configuration. 
 
-## Prerequisites
-- Nvim version 0.10.0 or higher.
-- Will power to do this.
+## Prerequisites  
+- **Neovim 0.10.0+** ([Get it here](https://neovim.io/))  
+- Basic knowledge of Lua (or the curiosity to explore).  
 
-## Structure
-```
+## Structure  
+
+```plaintext
 ├── init.lua
 ├── lazy-lock.json
 ├── lua/
@@ -25,9 +26,8 @@
 │           ├── peek.lua
 │           ├── telescope.lua
 │           ├── trouble.lua
-│           └── zenmode.lua
+│         └── zenmode.lua
 ```
-
-Enjoy!
+your editor should work for you—not against you.
 
 Anirudh 
